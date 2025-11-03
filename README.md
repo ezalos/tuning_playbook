@@ -1776,7 +1776,7 @@ multi-host training can make it very easy to introduce bugs!*
 <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/google-research/tuning_playbook/main/assets/have_we_sampled_enough.png" width="49%" alt="A box plot showing the importance of sampling enough">
+<img src="https://raw.githubusercontent.com/google-research/tuning_playbook/main/assets/validation_error_vs_num_trials.png" width="49%" alt="A box plot showing the importance of sampling enough">
 </p>
 
 <p align="center"><b>Figure 3:</b> A ResNet-50 was tuned on ImageNet with 100
